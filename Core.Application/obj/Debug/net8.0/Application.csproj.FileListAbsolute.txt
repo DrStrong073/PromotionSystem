@@ -1,0 +1,15 @@
+D:\Apps\Promotion\PromotionSystem\Core.Application\bin\Debug\net8.0\Application.deps.json
+D:\Apps\Promotion\PromotionSystem\Core.Application\bin\Debug\net8.0\Application.dll
+D:\Apps\Promotion\PromotionSystem\Core.Application\bin\Debug\net8.0\Application.pdb
+D:\Apps\Promotion\PromotionSystem\Core.Application\bin\Debug\net8.0\Domain.dll
+D:\Apps\Promotion\PromotionSystem\Core.Application\bin\Debug\net8.0\Domain.pdb
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.dll
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\refint\Application.dll
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.pdb
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\ref\Application.dll

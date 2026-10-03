@@ -1,0 +1,11 @@
+D:\Apps\Promotion\PromotionSystem\Core.Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Apps\Promotion\PromotionSystem\Core.Domain\bin\Debug\net8.0\Domain.dll
+D:\Apps\Promotion\PromotionSystem\Core.Domain\bin\Debug\net8.0\Domain.pdb
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.dll
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.pdb
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\ref\Domain.dll
