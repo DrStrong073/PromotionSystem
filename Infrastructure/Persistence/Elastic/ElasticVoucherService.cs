@@ -1,6 +1,7 @@
 ﻿using Application.Interfaces;
 using Domain.Entities;
 using Elastic.Clients.Elasticsearch;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -47,6 +48,7 @@ namespace Infrastructure.Persistence.Elastic
                 .Indices(IndexName)
                 .From((page - 1) * pageSize)
                 .Size(pageSize)
+                .Sort(sort => sort.Field(f => f.Field(v => v.CreatedAt).Order(SortOrder.Desc)))
                 .Query(q =>
                 {
                     if (string.IsNullOrWhiteSpace(keyword) && string.IsNullOrWhiteSpace(promotionId))
