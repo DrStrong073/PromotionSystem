@@ -3,35 +3,119 @@
   "WorkspaceRootPath": "D:\\Apps\\Promotion\\PromotionSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|d:\\apps\\promotion\\promotionsystem\\core.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|solutionrelative:core.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\commands\\createvouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\commands\\createvouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|d:\\apps\\promotion\\promotionsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|d:\\apps\\promotion\\promotionsystem\\infrastructure\\persistence\\elastic\\elasticvoucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\elastic\\elasticvoucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|d:\\apps\\promotion\\promotionsystem\\infrastructure\\persistence\\elastic\\elasticpromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\elastic\\elasticpromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\queries\\getvouchersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\queries\\getvouchersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\queries\\exportvouchersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\queries\\exportvouchersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\interfaces\\ielasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\interfaces\\imongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\interfaces\\imongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\promotions\\queries\\getpromotionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\promotions\\queries\\getpromotionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\commands\\deletevouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\commands\\deletevouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\commands\\importvoucherscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\commands\\importvoucherscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|d:\\apps\\promotion\\promotionsystem\\core.application\\vouchers\\commands\\updatevouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C5D017-F32F-4374-95AE-05B5F90A8FBB}|Core.Application\\Application.csproj|solutionrelative:core.application\\vouchers\\commands\\updatevouchercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\promotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\extensions\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|d:\\apps\\promotion\\promotionsystem\\infrastructure\\persistence\\mongo\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\mongo\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\webapi\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|d:\\apps\\promotion\\promotionsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9B76CF5-DFB0-421D-B7A4-314966702AE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|d:\\apps\\promotion\\promotionsystem\\core.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|solutionrelative:core.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|d:\\apps\\promotion\\promotionsystem\\core.domain\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|solutionrelative:core.domain\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|d:\\apps\\promotion\\promotionsystem\\core.domain\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|solutionrelative:core.domain\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|d:\\apps\\promotion\\promotionsystem\\core.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C07751C2-6E33-4A34-838B-F5150EB8EA1E}|Core.Domain\\Domain.csproj|solutionrelative:core.domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|d:\\apps\\promotion\\promotionsystem\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E47CBAB-45CF-4599-9629-6A96797EC528}|WebApi\\WebApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,50 +125,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
+              "DocumentIndex": 4,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Core.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T02:25:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Core.Application\\Application.csproj",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Application.csproj",
+              "RelativeToolTip": "Core.Application\\Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-03T15:47:09.741Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T02:25:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExportVouchersQuery.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Queries\\ExportVouchersQuery.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Queries\\ExportVouchersQuery.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Queries\\ExportVouchersQuery.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Queries\\ExportVouchersQuery.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:26:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetVouchersQuery.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Queries\\GetVouchersQuery.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Queries\\GetVouchersQuery.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Queries\\GetVouchersQuery.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Queries\\GetVouchersQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:25:43.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
-              "ToolTip": "D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
-              "RelativeToolTip": "..\\..\\..\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-03T15:27:31.96Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:39:49.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
               "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\appsettings.Development.json",
               "RelativeToolTip": "WebApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-03T15:26:49.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "WebApi\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T02:27:33.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IElasticSearchService.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Interfaces\\IElasticSearchService.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Interfaces\\IElasticSearchService.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Interfaces\\IElasticSearchService.cs",
+              "RelativeToolTip": "Core.Application\\Interfaces\\IElasticSearchService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:29:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreateVoucherCommand.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\CreateVoucherCommand.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Commands\\CreateVoucherCommand.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\CreateVoucherCommand.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Commands\\CreateVoucherCommand.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:09:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMongoRepository.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Interfaces\\IMongoRepository.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Interfaces\\IMongoRepository.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Interfaces\\IMongoRepository.cs",
+              "RelativeToolTip": "Core.Application\\Interfaces\\IMongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T02:18:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElasticPromotionService.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Elastic\\ElasticPromotionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Elastic\\ElasticPromotionService.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Elastic\\ElasticPromotionService.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Elastic\\ElasticPromotionService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:32:13.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElasticVoucherService.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Elastic\\ElasticVoucherService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Elastic\\ElasticVoucherService.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Elastic\\ElasticVoucherService.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Elastic\\ElasticVoucherService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:39:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetPromotionsQuery.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Promotions\\Queries\\GetPromotionsQuery.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Promotions\\Queries\\GetPromotionsQuery.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Promotions\\Queries\\GetPromotionsQuery.cs",
+              "RelativeToolTip": "Core.Application\\Promotions\\Queries\\GetPromotionsQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:37:49.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteVoucherCommand.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\DeleteVoucherCommand.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Commands\\DeleteVoucherCommand.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\DeleteVoucherCommand.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Commands\\DeleteVoucherCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:14:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImportVouchersCommand.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\ImportVouchersCommand.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Commands\\ImportVouchersCommand.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\ImportVouchersCommand.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Commands\\ImportVouchersCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:25:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateVoucherCommand.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\UpdateVoucherCommand.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Vouchers\\Commands\\UpdateVoucherCommand.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Vouchers\\Commands\\UpdateVoucherCommand.cs",
+              "RelativeToolTip": "Core.Application\\Vouchers\\Commands\\UpdateVoucherCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:13:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PromotionsController.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Controllers\\PromotionsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PromotionsController.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Controllers\\PromotionsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PromotionsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T01:42:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Extensions\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\DataSeeder.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Extensions\\DataSeeder.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\DataSeeder.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:10:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
@@ -97,7 +376,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Mongo\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Mongo\\MongoRepository.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Persistence\\Mongo\\MongoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Mongo\\MongoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:38:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T14:52:17.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Infrastructure.csproj*",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj*",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T19:37:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VouchersController.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Controllers\\VouchersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\VouchersController.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\Controllers\\VouchersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\VouchersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:06:21.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Entities\\Voucher.cs",
+              "RelativeDocumentMoniker": "Core.Domain\\Entities\\Voucher.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Entities\\Voucher.cs",
+              "RelativeToolTip": "Core.Domain\\Entities\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:40:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Entities\\Promotion.cs",
+              "RelativeDocumentMoniker": "Core.Domain\\Entities\\Promotion.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Entities\\Promotion.cs",
+              "RelativeToolTip": "Core.Domain\\Entities\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:39:16.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:17:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Domain.csproj",
               "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Core.Domain\\Domain.csproj",
@@ -110,41 +480,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebApi",
-              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "DocumentIndex": 27,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-03T14:52:17.579Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-03T15:47:09.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Infrastructure",
-              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-03T14:51:56.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Core.Application\\Application.csproj",
-              "ToolTip": "D:\\Apps\\Promotion\\PromotionSystem\\Core.Application\\Application.csproj",
-              "RelativeToolTip": "Core.Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-03T14:51:19.058Z",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
+              "ToolTip": "D:\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\SEP\\JourneySense_BackEnd\\JSEA.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T15:27:31.96Z",
               "EditorCaption": ""
             }
           ]

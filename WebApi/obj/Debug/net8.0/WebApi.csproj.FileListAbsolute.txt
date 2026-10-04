@@ -44,12 +44,6 @@ D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\FluentValidation.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\MediatR.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\SharpCompress.dll
@@ -63,3 +57,4 @@ D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dl
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\System.Text.Json.dll
 D:\Apps\Promotion\PromotionSystem\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Apps\Promotion\PromotionSystem\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json

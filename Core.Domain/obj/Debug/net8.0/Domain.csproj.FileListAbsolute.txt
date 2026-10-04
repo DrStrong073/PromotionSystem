@@ -9,3 +9,4 @@ D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.dll
 D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.pdb
 D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Apps\Promotion\PromotionSystem\Core.Domain\obj\Debug\net8.0\Domain.sourcelink.json

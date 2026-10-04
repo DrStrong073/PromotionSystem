@@ -13,3 +13,4 @@ D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.
 D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\refint\Application.dll
 D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.pdb
 D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\ref\Application.dll
+D:\Apps\Promotion\PromotionSystem\Core.Application\obj\Debug\net8.0\Application.sourcelink.json

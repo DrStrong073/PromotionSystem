@@ -60,7 +60,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[14.2.0, )"
+              "version": "[12.5.0, )"
             }
           },
           "imports": [
@@ -200,7 +200,7 @@
           "dependencies": {
             "Elastic.Clients.Elasticsearch": {
               "target": "Package",
-              "version": "[9.5.3, )"
+              "version": "[8.19.27, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
